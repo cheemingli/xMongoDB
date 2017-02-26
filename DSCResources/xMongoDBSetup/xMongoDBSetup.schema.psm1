@@ -1,4 +1,4 @@
-Configuration xMongoDB
+Configuration xMongoDBSetup
 {
     param
     (
